@@ -36,18 +36,22 @@ p {
 h1 {
     font-size: 24px;
     line-height: 150%;
-    color: var(--color-text-primary);
     font-weight: 800;
-    transition: color 0.5s ease-in-out;
 }
 
-span {
-    font-weight: 800;
-    font-size: 14px;
+h1 a {
+    text-decoration: none;
+    color: var(--color-text-primary);
+    transition: color 0.25s ease-in-out;
+}
+
+h1 a:hover {
+    color: var(--color-background);
 }
 
 .card {
-    width: 409px;
+    width: 100%;
+    max-width: 409px;
     background-color: white;
     border: 1px solid var(--color-text-primary);
     border-radius: 20px;
@@ -68,10 +72,6 @@ span {
     margin: 24px 0;
 }
 
-.card:hover h1 {
-    color: var(--color-background);
-}
-
 .article-meta {
     display: flex;
     flex-direction: column;
@@ -80,21 +80,34 @@ span {
 .article-meta > span {
     background-color: var(--color-background);
     text-align: center;
-    width: 82px;
-    height: 29px;
+    align-self: flex-start;
+    min-height: 29px;
     margin-bottom: 12px;
     border-radius: 4px;
     padding: 4px 12px;
 }
 
-time {
-    font-size: 14px;
-}
-
-.author {
+.author a {
     display: flex;
     align-items: center;
     gap: 12px;
+    text-decoration: none;
+    color: var(--color-text-primary);
+    transition: color 0.25s ease-in-out;
+}
+
+.author a:hover {
+    color: var(--color-background);
+}
+
+.article-meta > time {
+    font-size: 14px;
+}
+
+.article-meta span,
+.author span {
+    font-weight: 800;
+    font-size: 14px;
 }
 
 .attribution {
