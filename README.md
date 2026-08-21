@@ -3,25 +3,26 @@
 This is my solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## 🌐 Language
+
 - [English](./README.md)
 - [Português Brasileiro](./README.pt-br.md)
 
 ## 📄 Table of contents
 
 - [Frontend Mentor - Blog preview card solution](#frontend-mentor---blog-preview-card-solution)
-  - [🌐 Language](#-language)
-  - [📄 Table of contents](#-table-of-contents)
-  - [🔍 Overview](#-overview)
-    - [The challenge](#the-challenge)
-    - [📷 Screenshot](#-screenshot)
-    - [🔗 Links](#-links)
-  - [🛠️ My process](#️-my-process)
-    - [💻 Built with](#-built-with)
-    - [📚 What I learned](#-what-i-learned)
-    - [🚀 Continued development](#-continued-development)
-    - [📖 Useful resources](#-useful-resources)
-    - [🤖 AI Collaboration](#-ai-collaboration)
-  - [👨🏻‍💻 Author](#-author)
+    - [🌐 Language](#-language)
+    - [📄 Table of contents](#-table-of-contents)
+    - [🔍 Overview](#-overview)
+        - [The challenge](#the-challenge)
+        - [📷 Screenshot](#-screenshot)
+        - [🔗 Links](#-links)
+    - [🛠️ My process](#️-my-process)
+        - [💻 Built with](#-built-with)
+        - [📚 What I learned](#-what-i-learned)
+        - [🚀 Continued development](#-continued-development)
+        - [📖 Useful resources](#-useful-resources)
+        - [🤖 AI Collaboration](#-ai-collaboration)
+    - [👨🏻‍💻 Author](#-author)
 
 ## 🔍 Overview
 
@@ -37,8 +38,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-flexbox-TjGDw5VspO](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-flexbox-TjGDw5VspO)
+- Live Site URL: [https://martinsjoaosousa.github.io/blog-preview-card/](https://martinsjoaosousa.github.io/blog-preview-card/)
 
 ## 🛠️ My process
 
@@ -56,6 +57,7 @@ During this challenge, I practiced building semantic HTML structures, using the 
 ### 🚀 Continued development
 
 In addition to practicing responsive design and reinforcing the properties I've learned so far, I plan to deepen my understanding of:
+
 - Relative units (`em` and `rem`)
 - CSS functions like `min()`, `max()`, and `clamp()`
 - Media queries
@@ -67,7 +69,6 @@ In addition to practicing responsive design and reinforcing the properties I've 
 - [MDN Docs - var() CSS function](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference/Values/var) - Showed me how to effectively use custom properties across my style rules.
 - [MDN Docs - :root CSS selector](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference/Selectors/:root) - Clarified the concept of the `:root` selector, complementing my implementation of CSS variables.
 - [MDN Docs - transition CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/transition) - A quick refresher on the syntax of the `transition` property.
-
 
 ### 🤖 AI Collaboration
 

@@ -3,25 +3,26 @@
 Essa é a minha solução para o [desafio Blog preview card no Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## 🌐 Idioma
+
 - [English](./README.md)
 - [Português Brasileiro](./README.pt-br.md)
 
 ## 📄 Tabela de conteúdos
 
 - [Frontend Mentor - Solução Blog preview card](#frontend-mentor---solução-blog-preview-card)
-  - [🌐 Idioma](#-idioma)
-  - [📄 Tabela de conteúdos](#-tabela-de-conteúdos)
-  - [🔍 Visão geral](#-visão-geral)
-    - [O desafio](#o-desafio)
-    - [📷 Captura de tela](#-captura-de-tela)
-    - [🔗 Links](#-links)
-  - [🛠️ Meu processo](#️-meu-processo)
-    - [💻 Desenvolvido com](#-desenvolvido-com)
-    - [📚 O que eu aprendi](#-o-que-eu-aprendi)
-    - [🚀 Desenvolvimento contínuo](#-desenvolvimento-contínuo)
-    - [📖 Recursos úteis](#-recursos-úteis)
-    - [🤖 Colaboração com IA](#-colaboração-com-ia)
-  - [👨🏻‍💻 Autor](#-autor)
+    - [🌐 Idioma](#-idioma)
+    - [📄 Tabela de conteúdos](#-tabela-de-conteúdos)
+    - [🔍 Visão geral](#-visão-geral)
+        - [O desafio](#o-desafio)
+        - [📷 Captura de tela](#-captura-de-tela)
+        - [🔗 Links](#-links)
+    - [🛠️ Meu processo](#️-meu-processo)
+        - [💻 Desenvolvido com](#-desenvolvido-com)
+        - [📚 O que eu aprendi](#-o-que-eu-aprendi)
+        - [🚀 Desenvolvimento contínuo](#-desenvolvimento-contínuo)
+        - [📖 Recursos úteis](#-recursos-úteis)
+        - [🤖 Colaboração com IA](#-colaboração-com-ia)
+    - [👨🏻‍💻 Autor](#-autor)
 
 ## 🔍 Visão geral
 
@@ -29,7 +30,7 @@ Essa é a minha solução para o [desafio Blog preview card no Frontend Mentor](
 
 Os usuários devem ser capazes de:
 
-- Visualizar os estados de *hover* e *foco* de todos os elementos interativos da página
+- Visualizar os estados de _hover_ e _foco_ de todos os elementos interativos da página
 
 ### 📷 Captura de tela
 
@@ -37,8 +38,8 @@ Os usuários devem ser capazes de:
 
 ### 🔗 Links
 
-- Link da solução: [Add solution URL here](https://your-solution-url.com)
-- Live site: [Add live site URL here](https://your-live-site-url.com)
+- Link da solução: [https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-flexbox-TjGDw5VspO](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-flexbox-TjGDw5VspO)
+- Live site: [https://martinsjoaosousa.github.io/blog-preview-card/](https://martinsjoaosousa.github.io/blog-preview-card/)
 
 ## 🛠️ Meu processo
 
@@ -56,6 +57,7 @@ Durante o desafio, pratiquei a criação de estruturas HTML semânticas, o uso d
 ### 🚀 Desenvolvimento contínuo
 
 Além de praticar o design responsivo e reforçar as propriedades que aprendi até agora, pretendo aprofundar meus conhecimentos em:
+
 - Unidades relativas (`em` e `rem`)
 - Funções do CSS, como `min()`, `max()` e `clamp()`
 - Media queries
