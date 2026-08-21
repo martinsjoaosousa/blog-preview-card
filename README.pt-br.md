@@ -33,7 +33,7 @@ Os usuários devem ser capazes de:
 
 ### 📷 Captura de tela
 
-![Screenshot](./design/screenshot.png)
+![Captura de tela](./assets/images/screenshot.png)
 
 ### 🔗 Links
 
